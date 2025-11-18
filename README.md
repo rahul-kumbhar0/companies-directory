@@ -55,5 +55,3 @@ Fetched using:
 ```js
 fetch("/data/companies.json")
 ```
-Which one next?
-```
