@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Frontlines Media",
+        "location": "Hyderabad",
+        "industry": "Media"
+    },
+    {
+        "id": 2,
+        "name": "Groww",
+        "location": "Bangalore",
+        "industry": "FinTech"
+    },
+    {
+        "id": 3,
+        "name": "CRED",
+        "location": "Bangalore",
+        "industry": "FinTech"
+    },
+    {
+        "id": 4,
+        "name": "Razorpay",
+        "location": "Bangalore",
+        "industry": "FinTech"
+    },
+    {
+        "id": 5,
+        "name": "Urban Company",
+        "location": "Gurgaon",
+        "industry": "Home Services"
+    },
+    {
+        "id": 6,
+        "name": "Dunzo",
+        "location": "Bangalore",
+        "industry": "Delivery"
+    },
+    {
+        "id": 7,
+        "name": "Nykaa",
+        "location": "Mumbai",
+        "industry": "E-commerce"
+    },
+    {
+        "id": 8,
+        "name": "Meesho",
+        "location": "Bangalore",
+        "industry": "E-commerce"
+    },
+    {
+        "id": 9,
+        "name": "Zerodha",
+        "location": "Bangalore",
+        "industry": "FinTech"
+    },
+    {
+        "id": 10,
+        "name": "Zepto",
+        "location": "Mumbai",
+        "industry": "Delivery"
+    },
+    {
+        "id": 11,
+        "name": "Unacademy",
+        "location": "Bangalore",
+        "industry": "EdTech"
+    },
+    {
+        "id": 12,
+        "name": "Shiprocket",
+        "location": "New Delhi",
+        "industry": "Logistics"
+    },
+    {
+        "id": 13,
+        "name": "Ather Energy",
+        "location": "Bangalore",
+        "industry": "EV"
+    },
+    {
+        "id": 14,
+        "name": "Noise",
+        "location": "Gurgaon",
+        "industry": "Consumer Electronics"
+    },
+    {
+        "id": 15,
+        "name": "BluSmart",
+        "location": "Gurgaon",
+        "industry": "EV Transport"
+    }
+]
